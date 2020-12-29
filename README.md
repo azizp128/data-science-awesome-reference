@@ -13,5 +13,33 @@ https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-begi
 https://www.instagram.com/p/CH5bz1RDT7M/?igshid=1c0ubhbflm4mr
 
 #### Classification
+https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5
 
 ### Unsupervised Learning
+
+### Deep Learning
+https://github.com/DeepGraphLearning/LiteratureDL4Graph
+
+https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+
+https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+
+https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
+
+https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
+
+### References
+https://mlart.co/
+
+https://github.com/trekhleb/homemade-machine-learning
+
+https://sebastianraschka.com/resources/ml-lectures-1.html
+
+## PROGRAMMING LANGUAGE
+### PYTHON
+http://www.practicepython.org/
+
+https://edabit.com/challenges/python3
+
+https://pynative.com/python-basic-exercise-for-beginners/
+
