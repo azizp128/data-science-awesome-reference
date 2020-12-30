@@ -7,6 +7,8 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 ### Introduction
 https://mlart.co/
 
+https://i.am.ai/roadmap/#note
+
 https://www.elementsofai.com/
 
 https://course18.fast.ai/ml.html
@@ -56,7 +58,6 @@ https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-begi
 https://www.instagram.com/p/CH5bz1RDT7M/?igshid=1c0ubhbflm4mr
 
 #### Classification
-
 
 ### Unsupervised Learning
 #### NLP
@@ -108,6 +109,8 @@ http://www.practicepython.org/
 
 https://edabit.com/challenges/python3
 
+https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
+
 ## MATHEMATICS
 ### Linear Algebra
 https://pabloinsente.github.io/intro-linear-algebra
@@ -143,3 +146,5 @@ https://www.coursera.org/specializations/mathematics-machine-learning
 
 ## Additional References
 https://twitter.com/LearnersBucket/status/1316983042146185218
+
+https://twitter.com/deeptech_id/status/1321669306535456768
