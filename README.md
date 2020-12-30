@@ -89,7 +89,7 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
 
 
-## PROGRAMMING LANGUAGE
+## PROGRAMMING LANGUAGES
 ### PYTHON
 #### Beginner
 https://www.coursera.org/specializations/algorithms
