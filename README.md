@@ -116,12 +116,16 @@ https://www.coursera.org/specializations/data-mining
 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
+https://www.confetti.ai/
+
 ### Linear Algebra
 https://pabloinsente.github.io/intro-linear-algebra
 
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 https://pabloinsente.github.io/intro-linear-algebra
+
+https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
 ### Statistics
 https://www.coursera.org/specializations/statistics-with-python
@@ -132,3 +136,10 @@ https://www.coursera.org/learn/introductiontoprobability
 https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/
 
 https://www.youtube.com/playlist?list=PLBUHpBFmQyt4qp2bBOx67y2v0U1BmtPfS
+
+https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
+
+https://arxiv.org/abs/1802.01528
+
+## Additional References
+https://twitter.com/LearnersBucket/status/1316983042146185218
