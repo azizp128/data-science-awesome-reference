@@ -5,21 +5,31 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 ## MACHINE LEARNING
 ### Introduction
+https://mlart.co/
+
+https://www.elementsofai.com/
+
+https://course18.fast.ai/ml.html
+
+https://www.confetti.ai/
+
+https://paperswithcode.com/
+
+https://github.com/NiuTrans/ABigSurvey
+
+https://github.com/ossu/data-science
+
+http://cs109.github.io/2015/pages/videos.html
+
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 https://developers.google.com/machine-learning/crash-course/ml-intro
-
-https://www.elementsofai.com/
 
 https://elvissaravia.substack.com/p/course-recommendations-for-introductory
 
 https://github.com/dair-ai/awesome-ML-projects-guide
 
-https://course18.fast.ai/ml.html
-
 https://dafriedman97.github.io/mlbook/content/introduction.html
-
-https://www.confetti.ai/
 
 https://bloomberg.github.io/foml/#homeworkslave
 
@@ -27,17 +37,9 @@ https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2
 
 https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3
 
-https://github.com/ossu/data-science
-
-https://paperswithcode.com/
-
-https://github.com/NiuTrans/ABigSurvey
-
 https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
 
 https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/
-
-https://mlart.co/
 
 https://github.com/trekhleb/homemade-machine-learning
 
