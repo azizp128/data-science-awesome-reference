@@ -29,6 +29,8 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
 
 ### References
+https://github.com/NiuTrans/ABigSurvey
+
 https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
 
 https://mlart.co/
@@ -40,6 +42,8 @@ https://sebastianraschka.com/resources/ml-lectures-1.html
 ## PROGRAMMING LANGUAGE
 ### PYTHON
 #### Beginner
+https://www.coursera.org/specializations/algorithms
+
 https://www.python.org/about/gettingstarted/
 
 https://pythonbasics.org/
@@ -48,10 +52,30 @@ https://developers.google.com/edu/python/
 
 https://pynative.com/python-basic-exercise-for-beginners/
 
+
 #### Intermediate
 http://www.practicepython.org/
 
 https://edabit.com/challenges/python3
 
+## MATHEMATICS
 
+### Additional
+https://www.coursera.org/learn/complex-analysis
 
+https://www.coursera.org/learn/information-theory
+
+https://www.coursera.org/specializations/data-mining
+
+https://www.coursera.org/specializations/mathematics-machine-learning
+
+### Linear Algebra
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+### Statistics
+https://www.coursera.org/specializations/statistics-with-python
+
+https://www.coursera.org/learn/introductiontoprobability
+
+### Calculus
+https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/
