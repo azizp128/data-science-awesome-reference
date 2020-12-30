@@ -116,8 +116,6 @@ https://www.coursera.org/specializations/data-mining
 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
-https://www.confetti.ai/
-
 ### Linear Algebra
 https://pabloinsente.github.io/intro-linear-algebra
 
