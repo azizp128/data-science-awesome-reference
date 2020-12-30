@@ -107,15 +107,6 @@ http://www.practicepython.org/
 https://edabit.com/challenges/python3
 
 ## MATHEMATICS
-### Additional
-https://www.coursera.org/learn/complex-analysis
-
-https://www.coursera.org/learn/information-theory
-
-https://www.coursera.org/specializations/data-mining
-
-https://www.coursera.org/specializations/mathematics-machine-learning
-
 ### Linear Algebra
 https://pabloinsente.github.io/intro-linear-algebra
 
@@ -138,6 +129,15 @@ https://www.youtube.com/playlist?list=PLBUHpBFmQyt4qp2bBOx67y2v0U1BmtPfS
 https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
 
 https://arxiv.org/abs/1802.01528
+
+### Additional
+https://www.coursera.org/learn/complex-analysis
+
+https://www.coursera.org/learn/information-theory
+
+https://www.coursera.org/specializations/data-mining
+
+https://www.coursera.org/specializations/mathematics-machine-learning
 
 ## Additional References
 https://twitter.com/LearnersBucket/status/1316983042146185218
