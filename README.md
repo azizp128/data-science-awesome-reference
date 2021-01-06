@@ -144,7 +144,7 @@ https://www.coursera.org/specializations/data-mining
 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
-## Additional References
+## Other References
 https://twitter.com/LearnersBucket/status/1316983042146185218
 
 https://twitter.com/deeptech_id/status/1321669306535456768
