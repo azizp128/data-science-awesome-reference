@@ -148,3 +148,15 @@ https://www.coursera.org/specializations/mathematics-machine-learning
 https://twitter.com/LearnersBucket/status/1316983042146185218
 
 https://twitter.com/deeptech_id/status/1321669306535456768
+
+https://github.com/mheriyanto/Machine-Learning-and-Computer-Vision-References
+
+https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/
+
+https://towardsdatascience.com/10-popular-data-science-resources-on-github-7ae288ff4a75
+
+https://github.com/ekosaputro09/Data-Science-References
+
+https://github.com/tirthajyoti/Data-science-best-resources
+
+https://github.com/storieswithsiva/Data-Science-Resources
