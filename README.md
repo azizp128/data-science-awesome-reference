@@ -9,6 +9,10 @@ https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-
 
 https://mlart.co/
 
+https://github.com/vijishmadhavan/ArtLine
+
+https://twitter.com/svpino/status/1331563952967475200
+
 ### Introduction
 https://i.am.ai/roadmap/#note
 
@@ -94,6 +98,8 @@ http://karpathy.github.io/2019/04/25/recipe/
 ### Deep Learning
 https://github.com/DeepGraphLearning/LiteratureDL4Graph
 
+https://github.com/bharathgs/Awesome-pytorch-list#tutorials-books--examples
+
 https://github.com/dair-ai/ml-visuals
 
 https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
@@ -167,11 +173,17 @@ https://proofindex.com/
 ## Books
 http://themlbook.com/wiki/doku.php
 
+https://twitter.com/deeptech_id/status/1321669306535456768
+
 https://gwthomas.github.io/docs/math4ml.pdf
 
 https://twitter.com/galuhsahid/status/1344611529656684545
 
 https://twitter.com/ChadScherrer/status/1346565926934642690
+
+https://twitter.com/svpino/status/1334736188608028673
+
+https://twitter.com/pacmannai/status/1331918966722269191
 
 https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574
 
