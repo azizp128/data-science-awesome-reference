@@ -3,6 +3,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Data Science, M
 
 Reference list of useful links to learn about Data Science, Machine Learning and more.
 
+![alt text](https://github.com/azizp128/data-science-awesome-reference/blob/master/121649307_123755559256148_7033582196602709082_n.jpg)
+
 ## MACHINE LEARNING
 ### Projects 
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
