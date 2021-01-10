@@ -4,18 +4,25 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Data Science, M
 Reference list of useful links to learn about Data Science, Machine Learning and more.
 
 ## MACHINE LEARNING
-### Introduction
+### Projects 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
 https://mlart.co/
 
+### Introduction
 https://i.am.ai/roadmap/#note
 
 https://www.elementsofai.com/
 
 https://course18.fast.ai/ml.html
 
+https://stanford.edu/~shervine/teaching/cs-229/
+
 https://www.confetti.ai/
 
 https://paperswithcode.com/
+
+https://missing.csail.mit.edu/
 
 https://github.com/NiuTrans/ABigSurvey
 
@@ -57,10 +64,14 @@ https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-begi
 
 https://www.instagram.com/p/CH5bz1RDT7M/?igshid=1c0ubhbflm4mr
 
+https://twitter.com/oliverjumpertz/status/1346544095670525952
+
 #### Classification
 
 ### Unsupervised Learning
 #### NLP
+https://twitter.com/omarsar0/status/1344633106867884033
+
 https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
 
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5
@@ -77,9 +88,13 @@ https://datasets.quantumstat.com/
 
 https://github.com/NiuTrans/ABigSurvey
 
+### Neural Networks
+http://karpathy.github.io/2019/04/25/recipe/
 
 ### Deep Learning
 https://github.com/DeepGraphLearning/LiteratureDL4Graph
+
+https://github.com/dair-ai/ml-visuals
 
 https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
 
@@ -121,10 +136,12 @@ https://pabloinsente.github.io/intro-linear-algebra
 
 https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
-### Statistics
+### Statistics & Probability
 https://www.coursera.org/specializations/statistics-with-python
 
 https://www.coursera.org/learn/introductiontoprobability
+
+https://probml.github.io/pml-book/book1.html
 
 ### Calculus
 https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/
@@ -135,6 +152,7 @@ https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
 
 https://arxiv.org/abs/1802.01528
 
+
 ### Additional
 https://www.coursera.org/learn/complex-analysis
 
@@ -144,7 +162,22 @@ https://www.coursera.org/specializations/data-mining
 
 https://www.coursera.org/specializations/mathematics-machine-learning
 
+https://proofindex.com/
+
+## Books
+http://themlbook.com/wiki/doku.php
+
+https://gwthomas.github.io/docs/math4ml.pdf
+
+https://twitter.com/galuhsahid/status/1344611529656684545
+
+https://twitter.com/ChadScherrer/status/1346565926934642690
+
+https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574
+
 ## Other References
+https://twitter.com/aliakbars/status/1345761027246485504
+
 https://twitter.com/LearnersBucket/status/1316983042146185218
 
 https://twitter.com/deeptech_id/status/1321669306535456768
