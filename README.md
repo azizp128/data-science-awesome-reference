@@ -115,6 +115,8 @@ https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
 ## PROGRAMMING LANGUAGES
 ### PYTHON
 #### Beginner
+https://pythonbasics.org/
+
 https://www.coursera.org/specializations/algorithms
 
 https://www.pythonindo.com/
@@ -124,8 +126,6 @@ https://belajarpython.com/tutorial/apa-itu-python
 https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/
 
 https://www.python.org/about/gettingstarted/
-
-https://pythonbasics.org/
 
 https://developers.google.com/edu/python/
 
