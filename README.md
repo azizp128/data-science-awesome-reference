@@ -117,7 +117,9 @@ https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
 #### Beginner
 https://www.coursera.org/specializations/algorithms
 
+https://www.pythonindo.com/
 
+https://belajarpython.com/tutorial/apa-itu-python
 
 https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/
 
@@ -138,6 +140,8 @@ https://edabit.com/challenges/python3
 https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
 
 https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/
+
+https://codecombat.com
 
 ## MATHEMATICS
 ### Linear Algebra
