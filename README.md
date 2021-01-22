@@ -117,70 +117,68 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Non-linearities in Neural Networks](https://twitter.com/svpino/status/1351156045620588547)
 
 ### Deep Learning
-http://introtodeeplearning.com/
+[MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
-https://github.com/DeepGraphLearning/LiteratureDL4Graph
+[Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 
-https://github.com/bharathgs/Awesome-pytorch-list#tutorials-books--examples
+[Awesome Pytorch List](https://github.com/bharathgs/Awesome-pytorch-list#tutorials-books--examples)
 
-https://github.com/dair-ai/ml-visuals
+[ML Visuals](https://github.com/dair-ai/ml-visuals)
 
-https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+[Deep Learning (with PyTorch)](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
-https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+[Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
+[Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
-https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ
+[Full Stack Deep Learning Youtube Channel](https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ)
 
 
 ## PROGRAMMING LANGUAGES
 ### PYTHON
 #### Beginner
-https://pythonbasics.org/
+[Python Basics : Learn Python Programming](https://pythonbasics.org/)
 
-https://www.coursera.org/specializations/algorithms
+[Coursera Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
 
-https://developers.google.com/edu/python
+[Google's Python Class](https://developers.google.com/edu/python)
 
-https://www.pythonindo.com/
+[PYTHONINDO](https://www.pythonindo.com/)
 
-https://belajarpython.com/tutorial/apa-itu-python
+[BELAJARPYTHON](https://belajarpython.com/tutorial/apa-itu-python)
 
-https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/
+[FreeCodeCamp Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
 
-https://www.python.org/about/gettingstarted/
+[Python Getting Started](https://www.python.org/about/gettingstarted/)
 
-https://developers.google.com/edu/python/
-
-https://pynative.com/python-basic-exercise-for-beginners/
+[Python Basic Exercise for Beginners](https://pynative.com/python-basic-exercise-for-beginners/)
 
 
 #### Intermediate
-http://www.practicepython.org/
+[Beginner Python exercises](http://www.practicepython.org/)
 
-https://edabit.com/challenges/python3
+[Edabit Python Challenges](https://edabit.com/challenges/python3)
 
-https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d
+[NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
-https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/
+[Learning Python for Data Analysis and Visualization](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)
 
-https://codecombat.com
+[Code Combat](https://codecombat.com)
 
 ### ML With Python
-https://www.tensorflow.org/learn
+[Introduction to TensorFlow](https://www.tensorflow.org/learn)
 
-https://developers.google.com/machine-learning/crash-course/
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
-https://github.com/MacroAnalyst/Linear_Algebra_With_Python
+[Lectures of Linear Algebra with Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 
-https://github.com/ml-tooling/best-of-ml-python
+[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 
-[CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
+[Harvard CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
-https://realpython.com/linear-regression-in-python/
+[Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 
-https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/
+[Linear Regression for Absolute Beginners with Implementation in Python!](https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/)
 
 
 ## MATHEMATICS
