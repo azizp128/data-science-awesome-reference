@@ -10,68 +10,64 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 [Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others.](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 
+[Guide to Awesome Machine Learning Projects](https://github.com/dair-ai/awesome-ML-projects-guide)
+
 [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 [ML X ART creative machine learning experiments](https://mlart.co/)
 
 [ML ArtLine](https://github.com/vijishmadhavan/ArtLine)
 
-https://twitter.com/svpino/status/1331563952967475200
+[ML Example Projects by Paperwithcode](https://paperswithcode.com/)
+
+[10 ML Beginner Projects](https://twitter.com/svpino/status/1331563952967475200)
 
 ### Introduction
-https://learn.siuba.org/intro-data-science/
+[Intro Data Science with Siuba](https://learn.siuba.org/intro-data-science/)
 
-https://i.am.ai/roadmap/#note
+[AI Expert Roadmap](https://i.am.ai/roadmap/#note)
 
-https://www.elementsofai.com/
+[Introduction to AI](https://www.elementsofai.com/)
 
-https://www.coursera.org/learn/machine-learning
+[Coursera : Machine Learning by AndrewNg](https://www.coursera.org/learn/machine-learning)
 
-https://course18.fast.ai/ml.html
+[Welcome to Introduction to Machine Learning for Coders! taught by Jeremy Howard](https://course18.fast.ai/ml.html)
 
-https://stanford.edu/~shervine/teaching/cs-229/
+[Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 
-http://bit.ly/2Y11VsB
+[Coursera Machine Learning Foundations: A Case Study Approach](http://bit.ly/2Y11VsB)
 
-https://www.confetti.ai/
+[Introduction to Data Science and Machine Learning](https://www.confetti.ai/)
 
-https://paperswithcode.com/
+[The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu/)
 
-https://missing.csail.mit.edu/
+[A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
 
-https://github.com/NiuTrans/ABigSurvey
+[Path to a free self-taught education in Data Science! by Open Source Society University](https://github.com/ossu/data-science)
 
-https://github.com/ossu/data-science
+[Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-http://cs109.github.io/2015/pages/videos.html
+[Introduction to Machine Learning by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+[Course Recommendations for Introductory Machine Learning](https://elvissaravia.substack.com/p/course-recommendations-for-introductory)
 
-https://developers.google.com/machine-learning/crash-course/ml-intro
+[Machine Learning From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
-https://elvissaravia.substack.com/p/course-recommendations-for-introductory
+[FOUNDATIONS OF MACHINE LEARNING by Bloomberg](https://bloomberg.github.io/foml/#homeworkslave)
 
-https://github.com/dair-ai/awesome-ML-projects-guide
+[Tabular Data by Machine Learning University](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
 
-https://dafriedman97.github.io/mlbook/content/introduction.html
+[Stat 451: Intro to Machine Learning (Fall 2020)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
-https://bloomberg.github.io/foml/#homeworkslave
+[Create machine learning models by Microsoft](https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/)
 
-https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2
+[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
 
-https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3
+[Introduction to Machine Learning](https://sebastianraschka.com/resources/ml-lectures-1.html)
 
-https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
+[Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
-https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/
-
-https://github.com/trekhleb/homemade-machine-learning
-
-https://sebastianraschka.com/resources/ml-lectures-1.html
-
-https://github.com/soulmachine/machine-learning-cheat-sheet
-
-https://github.com/OpenBioLink/ITO
+[Introducing the Intelligence Task Ontology (ITO)](https://github.com/OpenBioLink/ITO)
 
 ### Supervised Learning
 #### Regression
@@ -85,6 +81,8 @@ https://twitter.com/oliverjumpertz/status/1346544095670525952
 
 #### Classification
 https://www.tensorflow.org/tutorials/keras/classification
+
+[Machine Learning Decision Tree](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
 
 https://machinelearningmastery.com/recommender-systems-resources/
 
@@ -181,6 +179,8 @@ https://developers.google.com/machine-learning/crash-course/
 https://github.com/MacroAnalyst/Linear_Algebra_With_Python
 
 https://github.com/ml-tooling/best-of-ml-python
+
+[CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 
 https://realpython.com/linear-regression-in-python/
 
