@@ -8,13 +8,13 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 ### Projects 
 [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+[Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others.](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 
-https://www.kaggle.com/rounakbanik/the-movies-dataset
+[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
-https://mlart.co/
+[ML X ART creative machine learning experiments](https://mlart.co/)
 
-https://github.com/vijishmadhavan/ArtLine
+[ML ArtLine](https://github.com/vijishmadhavan/ArtLine)
 
 https://twitter.com/svpino/status/1331563952967475200
 
