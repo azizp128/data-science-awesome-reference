@@ -25,6 +25,8 @@ https://i.am.ai/roadmap/#note
 
 https://www.elementsofai.com/
 
+https://www.coursera.org/learn/machine-learning
+
 https://course18.fast.ai/ml.html
 
 https://stanford.edu/~shervine/teaching/cs-229/
