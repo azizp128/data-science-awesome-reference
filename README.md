@@ -41,8 +41,6 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu/)
 
-[A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
-
 [Path to a free self-taught education in Data Science! by Open Source Society University](https://github.com/ossu/data-science)
 
 [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -71,54 +69,52 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 ### Supervised Learning
 #### Regression
-https://medium.com/@venkateshpnk22/ten-minutes-to-learn-linear-regression-for-dummies-5469038f4781
+[Ten minutes to learn Linear regression for dummies!!!](https://medium.com/@venkateshpnk22/ten-minutes-to-learn-linear-regression-for-dummies-5469038f4781)
 
-https://www.youtube.com/watch?v=ZkjP5RJLQF4 (LINEAR REGRESSION)
+[Statistics 101: Linear Regression, The Very Basics 📈](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
 
-https://www.instagram.com/p/CH5bz1RDT7M/?igshid=1c0ubhbflm4mr
+[Linear Regression Concept](https://www.instagram.com/p/CH5bz1RDT7M/?igshid=1c0ubhbflm4mr)
 
-https://twitter.com/oliverjumpertz/status/1346544095670525952
+[The Simple Linear Regression Explanation](https://twitter.com/oliverjumpertz/status/1346544095670525952)
 
 #### Classification
-https://www.tensorflow.org/tutorials/keras/classification
+[Classification with TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
 
 [Machine Learning Decision Tree](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
 
-https://machinelearningmastery.com/recommender-systems-resources/
+[How to Get Started With Recommender Systems](https://machinelearningmastery.com/recommender-systems-resources/)
 
 
 ### Unsupervised Learning
 #### NLP
-https://paperswithcode.com/newsletter/3
+[Machine Learning and NLP for Students and Practitioners](https://twitter.com/omarsar0/status/1344633106867884033)
 
-https://twitter.com/omarsar0/status/1344633106867884033
+[Recommendations for Getting Started with NLP](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started)
 
-https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
+[Standford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
-http://web.stanford.edu/class/cs224n/
+[CMU Multilingual NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
 
-https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5
+[How to use ML to search photos by natural language?](https://twitter.com/haltakov/status/1351271372463497217)
 
-https://twitter.com/haltakov/status/1351271372463497217
+[Tracking Progress in Natural Language Processing](http://nlpprogress.com/)
 
-http://nlpprogress.com/
+[NLP Best Practices](https://github.com/microsoft/nlp-recipes)
 
-https://github.com/microsoft/nlp-recipes
+[Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com/)
 
-https://nlpoverview.com/
+[Build, train and deploy state of the art models powered by the reference open source in natural language processing.](https://huggingface.co/)
 
-https://huggingface.co/
+[The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
-https://datasets.quantumstat.com/
-
-https://github.com/NiuTrans/ABigSurvey
+[A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
 
 ### Neural Networks
-http://karpathy.github.io/2019/04/25/recipe/
+[A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
-https://arxiv.org/abs/2101.04869
+[Convolutional Neural Nets: Foundations, Computations, and New Applications by Cornell University](https://arxiv.org/abs/2101.04869)
 
-https://twitter.com/svpino/status/1351156045620588547
+[Non-linearities in Neural Networks](https://twitter.com/svpino/status/1351156045620588547)
 
 ### Deep Learning
 http://introtodeeplearning.com/
