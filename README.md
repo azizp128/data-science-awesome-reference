@@ -178,89 +178,83 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
 
+[Coursera Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
+
+[Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+
 [Linear Regression for Absolute Beginners with Implementation in Python!](https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/)
 
 
 ## MATHEMATICS
 ### Linear Algebra
-https://pabloinsente.github.io/intro-linear-algebra
+[MIT Open Courseware : Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-
-https://pabloinsente.github.io/intro-linear-algebra
-
-https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+[Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
 ### Statistics & Probability
-https://www.edx.org/course/data-science-probability
+[EDX Data Science: Probability](https://www.edx.org/course/data-science-probability)
 
-https://www.coursera.org/specializations/statistics-with-python
+[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability)
 
-https://www.coursera.org/learn/introductiontoprobability
-
-https://probml.github.io/pml-book/book1.html
+[Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 
 ### Calculus
-https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/
+[EDX MathTrackX: Differential Calculus](https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/)
 
-https://www.youtube.com/playlist?list=PLBUHpBFmQyt4qp2bBOx67y2v0U1BmtPfS
+[Youtube Channel KALKULUS](https://www.youtube.com/playlist?list=PLBUHpBFmQyt4qp2bBOx67y2v0U1BmtPfS)
 
-https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
+[Mathematics for Machine Learning - Multivariate Calculus by Imperial College London](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 
-https://arxiv.org/abs/1802.01528
+[The Matrix Calculus You Need For Deep Learning by Cornell University](https://arxiv.org/abs/1802.01528)
 
 
 ### Additional
-https://github.com/Developer-Y/cs-video-courses#math-for-computer-scientist
+[Proof Index Mathematics Course](https://proofindex.com/)
 
-http://gwthomas.github.io/docs/math4ml.pdf
+[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses#math-for-computer-scientist)
 
-https://twitter.com/svpino/status/1349685410600001542
+[10 Machine Learning Youtube Videos by Santiago](https://twitter.com/svpino/status/1349685410600001542)
 
-https://www.coursera.org/learn/complex-analysis
+[Coursera Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis)
 
-https://www.coursera.org/learn/information-theory
+[Coursera Information Theory](https://www.coursera.org/learn/information-theory)
 
-https://www.coursera.org/specializations/data-mining
+[Coursera Data Mining Specialization](https://www.coursera.org/specializations/data-mining)
 
-https://www.coursera.org/specializations/mathematics-machine-learning
+[Coursera Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 
-https://proofindex.com/
-
-https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=2&t=0s
+[MIT Missing Semester IAP 2020](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
 ## Books
-http://themlbook.com/wiki/doku.php
+[The Hundred Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
-https://twitter.com/deeptech_id/status/1321669306535456768
+[Ebook Programming Gratis by DeepTech](https://twitter.com/deeptech_id/status/1321669306535456768)
 
-https://gwthomas.github.io/docs/math4ml.pdf
+[Mathematics for Machine Learning Ebook Pdf](http://gwthomas.github.io/docs/math4ml.pdf)
 
-https://twitter.com/galuhsahid/status/1344611529656684545
+[ML / AI Books Recommendation](https://twitter.com/galuhsahid/status/1344611529656684545)
 
-https://twitter.com/ChadScherrer/status/1346565926934642690
+[Bayesian Books Recommendation](https://twitter.com/ChadScherrer/status/1346565926934642690)
 
-https://twitter.com/svpino/status/1334736188608028673
+[Programming Recommendation Books](https://twitter.com/svpino/status/1334736188608028673)
 
-https://twitter.com/pacmannai/status/1331918966722269191
+[Rekomendasi Buku Python Bahasa Indonesia by DeepTech Twitter](https://twitter.com/pacmannai/status/1331918966722269191)
 
-https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574
+[Amazon Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574)
 
 ## Other References
-https://twitter.com/aliakbars/status/1345761027246485504
+[Kumpulan kuliah bagus di Stanford untuk menjadi data scientist yang sakti mandraguna](https://twitter.com/aliakbars/status/1345761027246485504)
 
-https://twitter.com/LearnersBucket/status/1316983042146185218
+[Machine Learning, Deep Learning, and Computer Vision References](https://github.com/mheriyanto/Machine-Learning-and-Computer-Vision-References)
 
-https://twitter.com/deeptech_id/status/1321669306535456768
+[15 Trending Data Science GitHub Repositories you can not miss in 2017](https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/)
 
-https://github.com/mheriyanto/Machine-Learning-and-Computer-Vision-References
+[10 Popular Data Science Resources on Github](https://towardsdatascience.com/10-popular-data-science-resources-on-github-7ae288ff4a75)
 
-https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/
+[Github Data-Science-References](https://github.com/ekosaputro09/Data-Science-References)
 
-https://towardsdatascience.com/10-popular-data-science-resources-on-github-7ae288ff4a75
+[Github Data Science Collected Resources](https://github.com/tirthajyoti/Data-science-best-resources)
 
-https://github.com/ekosaputro09/Data-Science-References
+[Github Data-Science-Resources](https://github.com/storieswithsiva/Data-Science-Resources)
 
-https://github.com/tirthajyoti/Data-science-best-resources
-
-https://github.com/storieswithsiva/Data-Science-Resources
+[50 FREE Artificial Intelligence, Computer Science, Engineering and Programming Courses from the Ivy League Universities](https://twitter.com/LearnersBucket/status/1316983042146185218)
