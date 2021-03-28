@@ -187,6 +187,14 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 ## MATHEMATICS
 ### Linear Algebra
+[Khan Academy : Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+
+[Ritchieng : Linear Algebra for Machine Learning](https://www.ritchieng.com/linear-algebra-machine-learning/)
+
+[DIDL : Linear Algebra](https://d2l.ai/chapter_preliminaries/linear-algebra.html)
+
+[Pabloinsente : Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra)
+
 [MIT Open Courseware : Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
