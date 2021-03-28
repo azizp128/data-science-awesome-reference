@@ -215,7 +215,7 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 ### Calculus
 [EDX MathTrackX: Differential Calculus](https://courses.edx.org/courses/course-v1:AdelaideX+DiffTraX+1T2020/course/)
 
-[ML Glossary : Calculus Gradients](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#gradients)
+[ML Glossary : Calculus](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 [Youtube Channel KALKULUS](https://www.youtube.com/playlist?list=PLBUHpBFmQyt4qp2bBOx67y2v0U1BmtPfS)
 
