@@ -200,7 +200,11 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
 ### Statistics & Probability
+[StatQuest : Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+
 [Udacity : Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+
+[StatQuest : Linear Regression & Linear Model](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
 
 [EDX Data Science: Probability](https://www.edx.org/course/data-science-probability)
 
