@@ -47,7 +47,7 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Stat 451: Intro to Machine Learning (Fall 2020)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
 
-### Projects 
+### ML Projects 
 [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 [Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others.](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
@@ -75,9 +75,9 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [The Simple Linear Regression Explanation](https://twitter.com/oliverjumpertz/status/1346544095670525952)
 
 #### Classification
-[Classification with TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
-
 [Machine Learning Decision Tree](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/)
+
+[Classification with TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
 
 [How to Get Started With Recommender Systems](https://machinelearningmastery.com/recommender-systems-resources/)
 
