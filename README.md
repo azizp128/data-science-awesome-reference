@@ -19,8 +19,6 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 [FOUNDATIONS OF MACHINE LEARNING by Bloomberg](https://bloomberg.github.io/foml/#homeworkslave)
 
-[Create machine learning models by Microsoft](https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/)
-
 [Introduction to Machine Learning](https://sebastianraschka.com/resources/ml-lectures-1/)
 
 [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
@@ -28,6 +26,8 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 
 #### MOOC
+[Create machine learning models by Microsoft](https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/)
+
 [Coursera : Machine Learning by AndrewNg](https://www.coursera.org/learn/machine-learning)
 
 [Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
