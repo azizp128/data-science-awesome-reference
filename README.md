@@ -6,15 +6,29 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 ## MACHINE LEARNING
 ### Introduction
+#### Articles
 [Intro Data Science with Siuba](https://learn.siuba.org/intro-data-science/)
 
 [AI Expert Roadmap](https://i.am.ai/roadmap/#note)
 
 [Introduction to AI](https://www.elementsofai.com/)
 
-[Coursera : Machine Learning by AndrewNg](https://www.coursera.org/learn/machine-learning)
-
 [Welcome to Introduction to Machine Learning for Coders! taught by Jeremy Howard](https://course18.fast.ai/ml.html)
+
+[Machine Learning From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+[FOUNDATIONS OF MACHINE LEARNING by Bloomberg](https://bloomberg.github.io/foml/#homeworkslave)
+
+[Create machine learning models by Microsoft](https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/)
+
+[Introduction to Machine Learning](https://sebastianraschka.com/resources/ml-lectures-1/)
+
+[Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
+
+
+#### MOOC
+[Coursera : Machine Learning by AndrewNg](https://www.coursera.org/learn/machine-learning)
 
 [Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 
@@ -24,31 +38,14 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 
 [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu/)
 
-[Path to a free self-taught education in Data Science! by Open Source Society University](https://github.com/ossu/data-science)
-
 [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [Introduction to Machine Learning by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
-
-[Course Recommendations for Introductory Machine Learning](https://elvissaravia.substack.com/p/course-recommendations-for-introductory)
-
-[Machine Learning From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-
-[FOUNDATIONS OF MACHINE LEARNING by Bloomberg](https://bloomberg.github.io/foml/#homeworkslave)
 
 [Tabular Data by Machine Learning University](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
 
 [Stat 451: Intro to Machine Learning (Fall 2020)](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
-[Create machine learning models by Microsoft](https://docs.microsoft.com/en-gb/learn/paths/create-machine-learn-models/)
-
-[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
-
-[Introduction to Machine Learning](https://sebastianraschka.com/resources/ml-lectures-1.html)
-
-[Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
-
-[Introducing the Intelligence Task Ontology (ITO)](https://github.com/OpenBioLink/ITO)
 
 ### Projects 
 [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
@@ -259,6 +256,12 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Amazon Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574)
 
 ## Other References
+[Path to a free self-taught education in Data Science! by Open Source Society University](https://github.com/ossu/data-science)
+
+[Course Recommendations for Introductory Machine Learning](https://elvissaravia.substack.com/p/course-recommendations-for-introductory)
+
+[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
+
 [Kumpulan kuliah bagus di Stanford untuk menjadi data scientist yang sakti mandraguna](https://twitter.com/aliakbars/status/1345761027246485504)
 
 [Machine Learning, Deep Learning, and Computer Vision References](https://github.com/mheriyanto/Machine-Learning-and-Computer-Vision-References)
