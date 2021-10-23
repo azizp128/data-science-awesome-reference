@@ -256,6 +256,8 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Amazon Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/gp/product/B08C2KM7NR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=shiftedup-20&creative=9325&linkCode=as2&creativeASIN=B08C2KM7NR&linkId=238e2afdcd34172b28f0e6c18c88c574)
 
 ## Other References
+[Data Science Learning Path](https://github.com/data-folks/data-science-learning-path)
+
 [Path to a free self-taught education in Data Science! by Open Source Society University](https://github.com/ossu/data-science)
 
 [Course Recommendations for Introductory Machine Learning](https://elvissaravia.substack.com/p/course-recommendations-for-introductory)
