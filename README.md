@@ -5,23 +5,6 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 <img src="https://github.com/azizp128/data-science-awesome-reference/blob/master/121649307_123755559256148_7033582196602709082_n.jpg">
 
 ## MACHINE LEARNING
-### Projects 
-[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-
-[Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others.](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-
-[Guide to Awesome Machine Learning Projects](https://github.com/dair-ai/awesome-ML-projects-guide)
-
-[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
-
-[ML X ART creative machine learning experiments](https://mlart.co/)
-
-[ML ArtLine](https://github.com/vijishmadhavan/ArtLine)
-
-[ML Example Projects by Paperwithcode](https://paperswithcode.com/)
-
-[10 ML Beginner Projects](https://twitter.com/svpino/status/1331563952967475200)
-
 ### Introduction
 [Intro Data Science with Siuba](https://learn.siuba.org/intro-data-science/)
 
@@ -66,6 +49,23 @@ Reference list of useful links to learn about Data Science, Machine Learning and
 [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 [Introducing the Intelligence Task Ontology (ITO)](https://github.com/OpenBioLink/ITO)
+
+### Projects 
+[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+[Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others.](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+
+[Guide to Awesome Machine Learning Projects](https://github.com/dair-ai/awesome-ML-projects-guide)
+
+[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+
+[ML X ART creative machine learning experiments](https://mlart.co/)
+
+[ML ArtLine](https://github.com/vijishmadhavan/ArtLine)
+
+[ML Example Projects by Paperwithcode](https://paperswithcode.com/)
+
+[10 ML Beginner Projects](https://twitter.com/svpino/status/1331563952967475200)
 
 ### Supervised Learning
 #### Regression
